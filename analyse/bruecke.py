@@ -12,7 +12,7 @@ b['sm_k']=b.sm*b.Kakaoanteil_an_Materialkosten_Prozent/100
 er['dev']=er.Ist_CHF-er.Budget_CHF
 M=['2026-05','2026-06','2026-07','2026-08']
 dv=er[er.Periode.isin(M)].pivot_table(index='Konto',columns='Periode',values='dev')/1000
-dv['Jun-Aug']=dv[M[1:]].sum(1); print(dv.round(1)); print(dv.sum().round(1))
+dv['Jun-Aug']=dv[M[1:]].sum(axis=1); print(dv.round(1)); print(dv.sum().round(1))
 k=rm[rm.Rohstoff.isin(['Kakaomasse','Kakaobutter'])].groupby('Periode').apply(lambda x:(x.Einkaufspreis_Ist/x.Einkaufspreis_Budget_2026).mean())
 mat=er[er.Konto.str.startswith('Material')].set_index('Periode')[['Ist_CHF','Budget_CHF']].abs()
 s=b.groupby('Periode')[['sm','sm_b','sm_k']].sum()
