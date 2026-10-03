@@ -1,0 +1,9 @@
+# Kursdaten und Auftragsunterlagen (Copyright), nicht ins Repo
+Paket_1_Finanzen.zip
+Paket_1_Finanzen/
+Paket_2_Werk/
+Sennhof Auftrag Teil 1*
+
+# Python
+__pycache__/
+*.pyc
