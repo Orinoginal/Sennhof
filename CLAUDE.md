@@ -26,7 +26,7 @@ Paket 2 Werk und Antworten CFO (wenn vorhanden, in `Paket_2_Werk/` und `CFO_Antw
 
 ## Stand der Analyse (belegt aus Paket 1)
 * EBIT-Abweichung: Jun -191.3, Jul -180.9, Aug -149.1 (Aug vorläufig).
-* Treiber Jun bis Aug: Überstunden/Temporäre +158.1, Retouren +107.0, Material-Mehrverbrauch rund +120 (Material / Standardkosten 1.057 / 1.085 / 1.072 gegen Budget 1.021), Bruttoumsatz -135, IT Juni +49.7 (Einmaleffekt ERP-Go-live vorgezogen).
+* Treiber Jun bis Aug: Überstunden/Temporäre +158.2, Retouren +107.0, Material-Mehrverbrauch +132.8 nach Mengen-/Mix- und Kakaopreiseffekt (Material / Standardkosten 1.057 / 1.085 / 1.072 gegen Budget 1.021), Bruttoumsatz -135, IT Juni +49.7 (Einmaleffekt ERP-Go-live vorgezogen).
 * Kakaopreise Jun bis Aug im oder unter Budget: Vermutung A (Kakao) gegenüber Budget nicht belegt.
 * Retouren fast nur Dunkel (TD70, TD85, TDO, Linie L2), ab Mai; Hauptkunde FrischMarkt. Dunkel-Menge FrischMarkt Jul/Aug rund 35 % unter Budget. Vermutung B (Umsatz im Plan) nur teilweise richtig.
 * Sommer 2025 ohne Anstieg bei Retouren und Überstunden; Anstieg 2026 beginnt im Mai. Vermutung C (Hitze) bisher nicht gestützt.
